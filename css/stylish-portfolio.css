@@ -27,9 +27,16 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
-	text-shadow: 1px solid #fff
+	text-shadow: 1px 1px #1ca57f;
+	color: #39b694;
 }
 
+.text-vertical-center h3 {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+	color: #1ca57f;
+}
 
 /* Custom Button Styles */
 
